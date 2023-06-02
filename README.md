@@ -9,7 +9,9 @@ It's important to note that while linear regression is a popular and widely used
 
 Overall, by utilizing a linear regression model trained on previous stock data, we can obtain a valuable tool for forecasting the future close prices of stocks. However, it's important to consider other advanced techniques and factors to achieve more precise predictions in real-world scenarios.
 
-
-
+## How to use?
+### Step-1
+Add the historical data of stocks you want to analyse in CSV format, similar to the demo data provided in the folder. Ensure that all the columns in the CSV file are of the same type as the demo data.
+### Step-2
 
 
