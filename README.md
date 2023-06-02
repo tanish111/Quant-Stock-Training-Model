@@ -1,4 +1,4 @@
-# Quant-Stock-Training-Model
+# Stock-Training-Model
 The proposed approach utilizes a linear regression model to predict future stock prices based on historical data. By leveraging a dataset containing information such as open, close, high, low, and volume values from previous stock records, the model is trained to forecast the future close price of stocks.
 
 The linear regression model analyzes the relationships between the various features and the target variable (close price) to establish a linear equation that represents the underlying patterns in the data. It identifies the correlation between the independent variables (open, close, high, low, and volume) and the dependent variable (close price), allowing for the prediction of future close prices based on these historical patterns.
