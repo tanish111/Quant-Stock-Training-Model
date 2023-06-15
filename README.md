@@ -13,5 +13,8 @@ Overall, by utilizing a linear regression model trained on previous stock data, 
 ### Step-1
 Add the historical data of stocks you want to analyse in CSV format, similar to the demo data provided in the folder. Ensure that all the columns in the CSV file are of the same type as the demo data.
 ### Step-2
-
+Change no_of_stocks variable in line 7 to the number of stocks you are training.
+### Step-3 
+You are done run the python file it will give you 4 weights for Open,High,Low and Volume respectively.
+Your required model is ready with the given weights.
 
