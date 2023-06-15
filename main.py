@@ -4,8 +4,8 @@ from sklearn.linear_model import LinearRegression
 import os
 directory = 'data2'
 #Importing Stock Data 
-no_of_stocks = 15
-coeffs = np.zeros((no_of_stocks+10,4)) #Change 20 to the number of stocks you want to analyze.
+no_of_stocks = 15 #Change 15 to the number of stocks you want to analyze.
+coeffs = np.zeros((no_of_stocks+10,4)) 
 counts = 0
 for filename in os.listdir(directory):
     aapl_df = pd.read_csv('data2/x.us.csv')
